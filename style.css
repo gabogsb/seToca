@@ -119,6 +119,12 @@ html {
 	font-weight: 600;
 }
 
+.prorrog {
+	font-size: 1.4rem;
+	padding-top: 2rem;
+	color: #fa0303;
+}
+
 .sobre {
 	display: flex;
 	flex-direction: column;
